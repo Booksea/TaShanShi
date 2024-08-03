@@ -1,0 +1,23 @@
+{
+  "name": "TaShanShi",
+  "version": "2.0.1",
+  "description": "他山石·积余庆小程序",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Booksea/TaShanShi.git.git"
+  },
+  "author": "Booksea",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Booksea/TaShanShi.git/issues"
+  },
+  "homepage": "https://github.com/Booksea/TaShanShi.git#readme",
+  "dependencies": {
+    "@yyjeffrey/wxutil": "1.2.0",
+    "lin-ui": "0.9.13"
+  }
+}
